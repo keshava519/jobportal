@@ -1,0 +1,25 @@
+body{
+  background-image: url(https://hnsfpau.imgix.net/11/images/variant_image/32/20348_KARTELL_BubbleClub_Mat_lightyellow.jpg?fit=fill&bg=0FFF&w=1000&h=1000&auto=format,compress);
+
+}
+h1{
+  text-align: center;
+  color: red;
+  background: cyan;
+
+}
+table{
+  border: 2px solid red;
+  align-items: center;
+}
+td.table{
+  border-radius: 2px solid red;
+}
+.container{
+  margin-top: 200px;
+
+}
+.jumbotron a{
+  background: navy;
+  border: 2px solid blue;
+}
